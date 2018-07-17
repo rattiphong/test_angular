@@ -1,0 +1,26 @@
+{
+  "name": "testangular",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rattiphong/test_angular.git"
+  },
+  "keywords": [
+    "1234567"
+  ],
+  "author": "rattiphong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rattiphong/test_angular/issues"
+  },
+  "homepage": "https://github.com/rattiphong/test_angular#readme"
+}
